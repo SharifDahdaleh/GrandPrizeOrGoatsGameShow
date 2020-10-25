@@ -58,6 +58,7 @@ public class GameShow {
             
             }//end switch
         }//end loop
+        break;
     }//end main
     public static void option1() {
         System.out.println("I'm sorry all you got is a goat figurine");
